@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+package-backup.json
+package-lock-backup.json
